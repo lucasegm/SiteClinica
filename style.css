@@ -1,0 +1,107 @@
+html, body {
+    margin: 0;
+    font-family: Helvetica;
+    color: white;
+}
+
+body {
+    background-color: #AAF;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1100px;
+    display: flex;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 5%;
+    border: white;
+}
+
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}   
+
+.menu {
+    width: 25%;
+    background-color: #BDE;
+    padding: 20px 25px 0px;
+    border: solid;
+    border-radius: 15px;
+}
+
+.menu a{
+    font-size: 18px; color: white;
+    font-weight: bolder;
+}
+
+.menu li:hover {
+    background-color: #AAF;
+    border-radius: 5px;
+}
+
+.header {
+    background-color: #AAF;
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    color: black;
+    width: 760px;
+}
+
+.content div label {
+    display: flex;
+    justify-content: left;
+    color: #AAF;
+}
+
+.content div form {
+    text-align: left;
+}
+
+.content button:hover {
+    cursor: pointer;
+    background-color: black;
+}
+
+.content button {
+    background-color: #AAF;
+    font-size: 15px;
+    color: white;
+    margin: 0 25px;
+}
+
+.footer {
+    background-color: #AAF;
+    min-height: 120px;
+    width: 780px;
+    border: solid;
+    border-top-left-radius:  15px;
+    padding: 10px 7px 0px;
+}
+
+table {
+    border: solid 1px grey;
+}
+
+table th {
+    background-color: #AAF;
+    color: white;
+}
+
+table tbody tr:hover td {
+    background-color: 	#FFC0CB;
+    cursor: pointer;
+}
+
+.unidades a{
+    margin: 0 52px;
+}
