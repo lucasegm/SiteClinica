@@ -2,6 +2,8 @@
 
 Este é um projeto fictício de um site para uma clínica médica chamada Clínica GM. O projeto inclui várias páginas, como a página principal, sobre nós, horários de atendimento e contato.
 
+Acesse o site clicando[ aqui](https://lucasegm.github.io/SiteClinica/).
+
 ## Páginas do Site
 
 1. **Página Principal** - Esta é a página inicial do site e apresenta informações gerais sobre a clínica, suas especialidades e um botão para verificar os horários de atendimento.
